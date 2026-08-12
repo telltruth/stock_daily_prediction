@@ -1,38 +1,55 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_at": null,
-  "samples": 0,
-  "direction_samples": 0,
-  "direction_hits": 0,
-  "direction_hit_rate": null,
-  "brier": {
-    "all": null,
-    "last_20": null,
-    "last_60": null,
-    "skill_vs_025": null
-  },
-  "range": {
-    "samples": 0,
-    "hits": 0,
-    "hit_rate": null,
-    "last_20": null,
-    "last_60": null
-  },
-  "calibration": {
-    "global_gap": null,
-    "buckets": {
-      "0-39": {"count": 0, "avg_predicted_bull_probability": null, "actual_bull_rate": null, "calibration_gap": null},
-      "40-49": {"count": 0, "avg_predicted_bull_probability": null, "actual_bull_rate": null, "calibration_gap": null},
-      "50-59": {"count": 0, "avg_predicted_bull_probability": null, "actual_bull_rate": null, "calibration_gap": null},
-      "60-69": {"count": 0, "avg_predicted_bull_probability": null, "actual_bull_rate": null, "calibration_gap": null},
-      "70-79": {"count": 0, "avg_predicted_bull_probability": null, "actual_bull_rate": null, "calibration_gap": null},
-      "80-100": {"count": 0, "avg_predicted_bull_probability": null, "actual_bull_rate": null, "calibration_gap": null}
+  "pipelines": {
+    "scheduled_0830": {
+      "open": {
+        "samples": 0,
+        "direction_samples": 0,
+        "direction_hits": 0,
+        "direction_hit_rate": null,
+        "brier": {"all": null, "last_20": null, "last_60": null, "skill_vs_025": null},
+        "range": {"samples": 0, "hits": 0, "hit_rate": null, "last_20": null, "last_60": null},
+        "calibration": {"global_gap": null, "buckets": {}},
+        "confidence": {"low": {}, "medium": {}, "high": {}}
+      },
+      "close": {
+        "samples": 0,
+        "direction_samples": 0,
+        "direction_hits": 0,
+        "direction_hit_rate": null,
+        "brier": {"all": null, "last_20": null, "last_60": null, "skill_vs_025": null},
+        "range": {"samples": 0, "hits": 0, "hit_rate": null, "last_20": null, "last_60": null},
+        "calibration": {"global_gap": null, "buckets": {}},
+        "confidence": {"low": {}, "medium": {}, "high": {}}
+      }
+    },
+    "scheduled_1255": {
+      "open": {
+        "samples": 0,
+        "direction_samples": 0,
+        "direction_hits": 0,
+        "direction_hit_rate": null,
+        "brier": {"all": null, "last_20": null, "last_60": null, "skill_vs_025": null},
+        "range": {"samples": 0, "hits": 0, "hit_rate": null, "last_20": null, "last_60": null},
+        "calibration": {"global_gap": null, "buckets": {}},
+        "confidence": {"low": {}, "medium": {}, "high": {}}
+      },
+      "close": {
+        "samples": 0,
+        "direction_samples": 0,
+        "direction_hits": 0,
+        "direction_hit_rate": null,
+        "brier": {"all": null, "last_20": null, "last_60": null, "skill_vs_025": null},
+        "range": {"samples": 0, "hits": 0, "hit_rate": null, "last_20": null, "last_60": null},
+        "calibration": {"global_gap": null, "buckets": {}},
+        "confidence": {"low": {}, "medium": {}, "high": {}}
+      }
     }
   },
-  "confidence": {
-    "low": {"samples": 0, "direction_samples": 0, "direction_hits": 0, "direction_hit_rate": null, "avg_brier": null},
-    "medium": {"samples": 0, "direction_samples": 0, "direction_hits": 0, "direction_hit_rate": null, "avg_brier": null},
-    "high": {"samples": 0, "direction_samples": 0, "direction_hits": 0, "direction_hit_rate": null, "avg_brier": null}
+  "comparison": {
+    "open": {"better_run_type": null, "direction_hit_rate_gap": null, "brier_gap": null},
+    "close": {"better_run_type": null, "direction_hit_rate_gap": null, "brier_gap": null}
   },
   "history": []
 }
