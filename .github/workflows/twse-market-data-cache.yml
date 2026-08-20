@@ -1,0 +1,47 @@
+name: TWSE market data cache
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Asia/Taipei 08:15, 19:30, 20:30 on weekdays.
+    - cron: '15 0 * * 1-5'
+    - cron: '30 11 * * 1-5'
+    - cron: '30 12 * * 1-5'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: twse-market-data-cache
+  cancel-in-progress: false
+
+jobs:
+  update-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependency
+        run: python -m pip install --disable-pip-version-check requests
+
+      - name: Fetch TWSE official TAIEX history
+        run: python scripts/update_taiex_cache.py
+
+      - name: Commit cache if changed
+        shell: bash
+        run: |
+          if git diff --quiet -- market_data/taiex_ohlc.json; then
+            echo "No cache change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- market_data/taiex_ohlc.json
+          git commit -m "update TAIEX official cache"
+          git push
