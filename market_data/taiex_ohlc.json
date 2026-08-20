@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-20T09:56:00+08:00",
+  "records": {
+    "2026-08-12": {
+      "date": "2026-08-12",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": 45518.07,
+      "verified": true,
+      "source_type": "twse_official_via_evaluation",
+      "source_endpoint": "evaluations/20260813.md",
+      "verified_at": "2026-08-18T20:00:01+08:00"
+    },
+    "2026-08-13": {
+      "date": "2026-08-13",
+      "open": 45676.54,
+      "high": null,
+      "low": null,
+      "close": 46021.48,
+      "verified": true,
+      "source_type": "twse_official_via_evaluation",
+      "source_endpoint": "evaluations/20260813.md",
+      "verified_at": "2026-08-18T20:00:01+08:00"
+    },
+    "2026-08-14": {
+      "date": "2026-08-14",
+      "open": 46103.81,
+      "high": null,
+      "low": null,
+      "close": 45811.01,
+      "verified": true,
+      "source_type": "twse_official_via_evaluation",
+      "source_endpoint": "evaluations/20260814.md",
+      "verified_at": "2026-08-18T20:00:48+08:00"
+    },
+    "2026-08-17": {
+      "date": "2026-08-17",
+      "open": 45841.17,
+      "high": null,
+      "low": null,
+      "close": 45857.27,
+      "verified": true,
+      "source_type": "twse_official_via_evaluation",
+      "source_endpoint": "evaluations/20260817.md",
+      "verified_at": "2026-08-18T20:01:23+08:00"
+    },
+    "2026-08-18": {
+      "date": "2026-08-18",
+      "open": 45922.40,
+      "high": null,
+      "low": null,
+      "close": 45308.68,
+      "verified": true,
+      "source_type": "twse_official_via_evaluation",
+      "source_endpoint": "evaluations/20260818.md",
+      "verified_at": "2026-08-18T20:02:00+08:00"
+    }
+  }
+}
