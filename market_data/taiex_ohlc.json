@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T23:14:35+08:00",
+  "updated_at": "2026-09-03T00:43:41+08:00",
   "records": {
     "2026-08-12": {
       "date": "2026-08-12",
@@ -11,7 +11,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-13": {
       "date": "2026-08-13",
@@ -22,7 +22,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-14": {
       "date": "2026-08-14",
@@ -33,7 +33,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-17": {
       "date": "2026-08-17",
@@ -44,7 +44,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-18": {
       "date": "2026-08-18",
@@ -55,7 +55,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-07-01": {
       "date": "2026-07-01",
@@ -308,7 +308,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-04": {
       "date": "2026-08-04",
@@ -319,7 +319,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-05": {
       "date": "2026-08-05",
@@ -330,7 +330,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-06": {
       "date": "2026-08-06",
@@ -341,7 +341,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-07": {
       "date": "2026-08-07",
@@ -352,7 +352,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-10": {
       "date": "2026-08-10",
@@ -363,7 +363,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-11": {
       "date": "2026-08-11",
@@ -374,7 +374,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-19": {
       "date": "2026-08-19",
@@ -385,7 +385,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-20": {
       "date": "2026-08-20",
@@ -396,7 +396,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-21": {
       "date": "2026-08-21",
@@ -407,7 +407,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-24": {
       "date": "2026-08-24",
@@ -418,7 +418,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-25": {
       "date": "2026-08-25",
@@ -429,7 +429,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-26": {
       "date": "2026-08-26",
@@ -440,7 +440,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-27": {
       "date": "2026-08-27",
@@ -451,7 +451,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-28": {
       "date": "2026-08-28",
@@ -462,7 +462,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-08-31": {
       "date": "2026-08-31",
@@ -473,7 +473,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260801",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-09-01": {
       "date": "2026-09-01",
@@ -484,7 +484,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260901",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     },
     "2026-09-02": {
       "date": "2026-09-02",
@@ -495,7 +495,7 @@
       "verified": true,
       "source_type": "twse_official",
       "source_endpoint": "https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20260901",
-      "verified_at": "2026-09-02T23:14:35+08:00"
+      "verified_at": "2026-09-03T00:43:41+08:00"
     }
   }
 }
